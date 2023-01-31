@@ -1,0 +1,36 @@
+#icon
+{
+    width: 70px;
+    border-radius: 20%;
+}
+
+body
+{
+    background-image: "login background.jpg";
+    background: rgb(238, 49, 255);
+}
+
+h1
+{
+    font-style: italic;
+    text-decoration-color: rgb(18, 157, 0);
+    
+}
+
+label
+{
+    font-size: 40px;
+}
+
+#player_1,#player_2
+{
+    display:inline-block;
+    margin-left:20px;
+}
+
+#title_name
+{
+    font-size: 80px;
+}
+
+
